@@ -2,7 +2,7 @@
 
 <P>This repository contains the work completed during my Web Development Internship. The project focuses on applying modern web technologies to design, develop, and deploy a responsive, user-friendly web application.</P>
 
-# 🚀 Features
+# 🚀 Features  
 
 Responsive design (mobile, tablet, desktop)</P>
 User authentication & authorization</P>   
