@@ -5,7 +5,7 @@
 # 🚀 Features
 
 Responsive design (mobile, tablet, desktop)</P>
-User authentication & authorization</P>
+User authentication & authorization</P>   
 Interactive UI/UX with modern frameworks</P>
  RESTful API integration</P>
 Database connectivity & CRUD operations</P>
