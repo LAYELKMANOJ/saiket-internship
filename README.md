@@ -1,4 +1,4 @@
-## Web Development Internship Project
+ ## Web Development Internship Project
 
 <P>This repository contains the work completed during my Web Development Internship. The project focuses on applying modern web technologies to design, develop, and deploy a responsive, user-friendly web application.</P>
 
